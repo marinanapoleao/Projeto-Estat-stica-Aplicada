@@ -1,5 +1,5 @@
 # Projeto Estatística Aplicada
-
+<img width="1364" height="768" alt="Estatística Aplicada" src="https://github.com/user-attachments/assets/f962a043-a524-449c-a142-bc5f1b4bc532" />
 
 ## 📌 Sobre o Projeto
 
